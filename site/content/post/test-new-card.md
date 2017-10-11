@@ -1,7 +1,9 @@
 ---
 title: Test new card
 date: 2017-10-11T10:42:00.027Z
-description: 'Hey man, how are you?'
+description: >-
+  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
+  tasters, has been revised for the first time this year.
 image: /img/Koala.jpg
 ---
 <!--StartFragment-->
